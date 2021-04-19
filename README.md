@@ -1,2 +1,2 @@
 # cppDemo
-repo for cpp code
+Repo for self-taught C++; 
